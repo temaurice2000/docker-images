@@ -1,9 +1,9 @@
 echo "C est quoi ton nom?"
 read nom
-sleep .5
+sleep 1
 echo "Ton nom c est $nom"
-sleep .5
+sleep 1
 echo "what is your father's name?"
 read Name
-sleep .5
+sleep 1
 echo "Your father's name is $Name"
